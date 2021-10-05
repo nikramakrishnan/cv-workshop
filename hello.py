@@ -8,7 +8,7 @@ def add(num1, num2):
     total = num1+num2
     return total
 
-num1 = 2
+num1 = 200
 num2 = 10
 total = add(num1, num2)
-print("Sum of two numbers is", total)
+print("Sum of", num1, "and", num2, "is", total)
